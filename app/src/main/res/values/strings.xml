@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeShop</string>
+    <string name="facebook_app_id">1659210191270375</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">db4e3ba2fcc61d9da363a050c06ca2b3</string>
+    <string name="default_web_client_id">787133567821-eqb11t06vpi9dimiha69h9lj5skrrf1a.apps.googleusercontent.com</string>
+</resources>

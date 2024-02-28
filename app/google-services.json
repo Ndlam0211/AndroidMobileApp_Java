@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "787133567821",
+    "firebase_url": "https://onlineshopapp-a7ea2-default-rtdb.firebaseio.com",
+    "project_id": "onlineshopapp-a7ea2",
+    "storage_bucket": "onlineshopapp-a7ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787133567821:android:77921d87a012e28a739d04",
+        "android_client_info": {
+          "package_name": "com.example.onlineshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787133567821-eqb11t06vpi9dimiha69h9lj5skrrf1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineshopapp",
+            "certificate_hash": "03df272cd464fbdbae223f99487cc097fa39b505"
+          }
+        },
+        {
+          "client_id": "787133567821-8iv0so8m0ndsgn9tao59kr5i00e1hl12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPej71f_XurE5tE1L9NMybAv9FqUImeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787133567821-8iv0so8m0ndsgn9tao59kr5i00e1hl12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
